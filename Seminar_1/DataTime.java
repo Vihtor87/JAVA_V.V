@@ -1,5 +1,3 @@
-package Seminar_1;
-
 import java.time.LocalDateTime;
 
 public class DataTime {
