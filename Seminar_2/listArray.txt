@@ -1,0 +1,7 @@
+forTask4.txt
+task1.java
+task2rarString.java
+task3Polindrome.java
+task4File.java
+task5.java
+TheScanner.java
